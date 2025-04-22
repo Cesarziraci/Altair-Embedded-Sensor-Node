@@ -41,7 +41,7 @@
 ## 🛠️ Requirements
 
 - Python 3.x (if using Thonny or MicroPython)
-- Libraries for BME280 and the accelerometer
+- Libraries for BME280 and the LIS3DHTR
 - UART communication between RP2040 and ESP8266
 
 ---
