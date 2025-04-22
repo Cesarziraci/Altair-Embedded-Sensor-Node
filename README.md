@@ -84,5 +84,4 @@ Logo and name inspired by the **Aquila** constellation and its brightest star, *
 ---
 
 ## 🌐 Contribute
-
 Got ideas, feedback, or improvements? Fork the repo, open an issue, or submit a pull request — contributions are welcome!
