@@ -20,6 +20,22 @@
 
 ---
 
+## 🖼️ Board Previews
+<h2 align="center">🖼️ Board Previews</h2>
+
+<p align="center">
+  <img src="Images/Top.png" alt="Top view of Altair PCB" width="400"/>
+</p>
+
+<p align="center">
+  <img src="Images/Right_back.png" alt="Right back view of Altair PCB" width="400"/>
+</p>
+
+<p align="center">
+  <img src="Images/Left_back.jpg" alt="Left back  Altair Board" width="400"/>
+</p>
+
+---
 ## 📦 Repository Structure
 
 - `hardware/` – Schematics, PCB layout, and manufacturing files
@@ -69,5 +85,4 @@ Logo and name inspired by the **Aquila** constellation and its brightest star, *
 ---
 
 ## 🌐 Contribute
-
 Got ideas, feedback, or improvements? Fork the repo, open an issue, or submit a pull request — contributions are welcome!
