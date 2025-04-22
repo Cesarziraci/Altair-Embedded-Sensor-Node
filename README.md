@@ -1,4 +1,5 @@
 #🛰️ Altair – Embedded Sensor Node
+
 Altair is a development board based on the RP2040 microcontroller, with WiFi connectivity provided by an ESP8266, designed for IoT applications, environmental sensing and embedded systems. Inspired by the star Altair, within the Aquila constellation, this board combines power, efficiency, and simplicity in a compact and adaptable format.
 
 #🔧 Main features
