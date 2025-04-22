@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="Images/Left_back.jpg" alt="Left back  Altair Board" width="400"/>
+  <img src="Images/Left_Back.jpg" alt="Left back  Altair Board" width="400"/>
 </p>
 
 ---
