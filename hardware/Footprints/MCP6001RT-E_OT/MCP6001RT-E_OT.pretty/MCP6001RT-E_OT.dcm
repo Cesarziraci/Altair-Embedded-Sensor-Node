@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP6001RT-E_OT
+D OP Amp Single GP R-R I/O 6V
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA24/1612149.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ABM3B-12.000MHZ-B-T
+D Crystal 12MHz +/-50ppm (Tol) +/-50ppm (Stability) 18pF FUND 70Ohm 4-Pin CSMD T/R
+K
+F https://abracon.com/Resonators/abm3b.pdf
+$ENDCMP
+#
+#End Doc Library

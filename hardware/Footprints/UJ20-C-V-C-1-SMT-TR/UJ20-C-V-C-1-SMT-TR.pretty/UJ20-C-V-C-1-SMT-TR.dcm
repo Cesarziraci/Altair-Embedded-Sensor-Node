@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP UJ20-C-V-C-1-SMT-TR
+D Type C, USB 2.0, 480 Mbps, 20 Vac, 5 A, Free- line, Gold Plated 1u,Dip Shell, 12 pin, USB Plug Connector
+K
+F https://www.sameskydevices.com/product/resource/supplyframepdf/uj20-c-v-c-1-smt-tr.pdf
+$ENDCMP
+#
+#End Doc Library

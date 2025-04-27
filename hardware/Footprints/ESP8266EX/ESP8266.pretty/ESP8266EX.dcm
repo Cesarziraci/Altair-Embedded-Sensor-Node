@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP8266EX
+D RF System on a Chip - SoC SMD IC ESP8266EX, QFN32-pin, 5x5mm
+K
+F https://componentsearchengine.com/Datasheets/1/ESP8266EX.pdf
+$ENDCMP
+#
+#End Doc Library

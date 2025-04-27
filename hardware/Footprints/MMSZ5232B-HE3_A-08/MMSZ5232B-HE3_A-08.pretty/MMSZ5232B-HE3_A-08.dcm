@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MMSZ5232B-HE3_A-08
+D Silicon planar Zener diodes  Standard Zener voltage tolerance is +/- 5 % with a B suffix (e.g.: MMSZ5225B), suffix C is +/- 2 % tolerance  AEC-Q101 qualified available  ESD capability according to AEC-Q101: Human body model > 8 kV Machine model > 800 V  Base P/N-E3 - RoHS-compliant, commercial grade  Base P/N-HE3_A - RoHS-compliant, AEC-Q101 qualified  Material categorization: for definitions of compliance please see www.vishay.com/doc?99912
+K
+F https://www.vishay.com/doc?86344
+$ENDCMP
+#
+#End Doc Library

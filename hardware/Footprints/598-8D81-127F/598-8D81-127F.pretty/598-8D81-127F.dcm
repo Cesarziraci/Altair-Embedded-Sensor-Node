@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 598-8D81-127F
+D 598 SMD LED 0605 Right Angle pkg True-Green 7" Reel
+K
+F https://s3-us-west-2.amazonaws.com/catsy.557/C18784.pdf
+$ENDCMP
+#
+#End Doc Library
