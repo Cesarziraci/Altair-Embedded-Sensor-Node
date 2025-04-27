@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP P4SMA6.8A
+D Littelfuse P4SMA6.8A, Uni-Directional TVS Diode, 400W, 2-Pin DO-214AC
+K
+F https://www.mouser.ca/datasheet/2/240/Littelfuse_TVS_Diode_P4SMA_Datasheet.pdf-540735.pdf
+$ENDCMP
+#
+#End Doc Library

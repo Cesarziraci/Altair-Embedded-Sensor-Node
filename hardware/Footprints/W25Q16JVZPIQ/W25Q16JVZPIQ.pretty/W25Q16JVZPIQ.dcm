@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP W25Q16JVZPIQ
+D  New Family of SpiFlash Memories  W25Q16JV: 16M-bit / 2M-byte (2,097,152)  Standard SPI: CLK, /CS, DI, DO  Dual SPI: CLK, /CS, IO0, IO1  Quad SPI: CLK, /CS, IO0, IO1, IO2, IO3  Software & Hardware Reset(1)  Highest Performance Serial Flash  133MHz Single, Dual/Quad SPI clocks  266/532MHz equivalent Dual/Quad SPI  66MB/S continuous data transfer rate  Min. 100K Program-Erase cycles per sector  More than 20-year data retention  Efficient Continuous Read  Continuous Read with 8/16/
+K
+F https://www.winbond.com/hq/search-resource-file.jsp?partNo=W25Q16JVZPIQ&type=datasheet
+$ENDCMP
+#
+#End Doc Library
